@@ -17,7 +17,7 @@ Welcome to the Python Programming Tutorials repository! This repository is a com
 ### How to Use
 Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/python-tutorials.git
+git clone https://github.com/akewarmayur/LearnMLByExample.git
 
 ```
 Explore the folders corresponding to each topic of interest. Open Jupyter Notebooks to interactively learn and experiment with Python code. Utilize example data files for practical application of concepts.
